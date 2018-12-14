@@ -1,0 +1,16 @@
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\WCFCarRentalService.dll.config
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\WCFCarRentalService.dll
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\WCFCarRentalService.pdb
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\CarRentalServiceBL.dll
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\CarRentalServiceDL.dll
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\EntityFramework.dll
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\CarRentalServiceBL.pdb
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\CarRentalServiceBL.dll.config
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\CarRentalServiceDL.pdb
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\CarRentalServiceDL.dll.config
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\obj\Debug\WCFCarRentalService.csprojAssemblyReference.cache
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\obj\Debug\WCFCarRentalService.csproj.CoreCompileInputs.cache
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\obj\Debug\WCFCarRentalService.csproj.CopyComplete
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\obj\Debug\WCFCarRentalService.dll
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\obj\Debug\WCFCarRentalService.pdb
+C:\Users\wisdom\source\repos\CarRentalService\WCFCarRentalService\bin\Debug\EntityFramework.SqlServer.dll

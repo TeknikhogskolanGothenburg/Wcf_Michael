@@ -1,0 +1,12 @@
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\bin\Debug\CarRentalServiceDL.dll.config
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\bin\Debug\CarRentalServiceDL.dll
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\bin\Debug\CarRentalServiceDL.pdb
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\bin\Debug\EntityFramework.dll
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\obj\Debug\CarRentalServiceDL.csprojAssemblyReference.cache
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\obj\Debug\CarRentalServiceDL.csproj.CoreCompileInputs.cache
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\obj\Debug\CarRentalServiceDL.csproj.CopyComplete
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\obj\Debug\CarRentalServiceDL.dll
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\obj\Debug\CarRentalServiceDL.pdb
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\obj\Debug\CarRentalServiceDL.Migrations.CarRentalS.resources
+C:\Users\wisdom\source\repos\CarRentalService\CarRentalServiceDL\obj\Debug\CarRentalServiceDL.csproj.GenerateResource.cache
